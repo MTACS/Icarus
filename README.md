@@ -19,5 +19,7 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
 ## Credits
 
 [Devy Design](https://twitter.com/Devy_Design) - Original tweak idea, graphics, colors & name
+
 [iCarousel](https://github.com/nicklockwood/iCarousel) - Logic for switcher rotation & animations
+
 [ginsu](https://twitter.com/ginsudev) - Homescreen widget code
