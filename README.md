@@ -18,7 +18,7 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
 
 ## Screenshots
 
-<div class="row">
+<div class="row" float="left">
   <div class="column">
     <img src="https://mtac.app/repo/assets/com.mtac.icarus/screenshot/1.png" alt="1" style="height: 25%; width:25%;"/>
   </div>
