@@ -14,7 +14,6 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
 * Add a kill button to quickly kill all running apps, with the ability to confirm
 * Feel each animation with haptic feedback
 * Configure options directly by long pressing on any application card, via the Settings bundle, or by using the included iOS 14 Homescreen widget.
-* Settings other than enable/disable apply instantly
 
 ## Screenshots
 
