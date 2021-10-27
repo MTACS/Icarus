@@ -18,7 +18,7 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
 
 ## Screenshots
 
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="https://mtac.app/repo/assets/com.mtac.icarus/screenshot/1.png" alt="1" style="height: 633px; width:293px;"/>
 
 ## Credits
 
