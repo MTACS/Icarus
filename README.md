@@ -25,6 +25,10 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
     <img src="https://mtac.app/repo/assets/com.mtac.icarus/screenshot/5.png" alt="5" style="height: 20%; width:20%;"/>
 </div>
 
+## Bug reporting
+
+Please submit all bug reports [here](https://github.com/MTACS/Icarus/issues/new?assignees=MTACS&labels=bug&template=bug_report.md&title=)
+
 ## Credits
 
 [Devy Design](https://twitter.com/Devy_Design) - Original tweak idea, graphics, colors & name
