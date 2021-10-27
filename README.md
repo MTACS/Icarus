@@ -16,6 +16,10 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
 * Configure options directly by long pressing on any application card, via the Settings bundle, or by using the included iOS 14 Homescreen widget.
 * Settings other than enable/disable apply instantly
 
+## Screenshots
+
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 ## Credits
 
 [Devy Design](https://twitter.com/Devy_Design) - Original tweak idea, graphics, colors & name
