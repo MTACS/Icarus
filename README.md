@@ -24,6 +24,12 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
     <img src="https://mtac.app/repo/assets/com.mtac.icarus/screenshot/5.png" alt="5" style="height: 20%; width:20%;"/>
 </div>
 
+## FAQ
+
+* Why are some apps previews black when first launching the app and opening the switcher? - Icarus uses Apple's methods for grabbing the apps's snapshot. Since these aren't generated until the app is launched, it defaults to black. Caching for previously launched apps will be added as a work around.
+
+* Why does SpringBoard crash sometimes when killing all running apps? - A fix will be included when a better method is found.
+
 ## Bug reporting
 
 Please submit all bug reports [here](https://github.com/MTACS/Icarus/issues/new?assignees=MTACS&labels=bug&template=bug_report.md&title=)
