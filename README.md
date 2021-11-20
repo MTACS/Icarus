@@ -36,7 +36,7 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
 
 ## Translations
 
-Refer [here]() for adding your language 
+Refer [here](https://github.com/MTACS/Icarus/wiki/Translations) for adding your language 
 
 ## Bug reporting
 
