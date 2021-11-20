@@ -34,6 +34,10 @@ Icarus is a complete overhaul of iOS' multitasking gesture system. It replaces t
 
 * Why does SpringBoard crash sometimes when killing all running apps? - A fix will be included when a better method is found.
 
+## Translations
+
+Refer [here]() for adding your language 
+
 ## Bug reporting
 
 Please submit all bug reports [here](https://github.com/MTACS/Icarus/issues/new?assignees=MTACS&labels=bug&template=bug_report.md&title=)
